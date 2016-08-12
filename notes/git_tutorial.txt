@@ -25,3 +25,6 @@ git diff
 
 git diff [files]
 
+git diff --staged
+git diff --staged
+
