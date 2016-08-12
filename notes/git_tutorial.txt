@@ -1,11 +1,12 @@
 Git Tutorial
 
-Git is a distributed version control 
+
 
 
 git init ->> initialize the project 
-git add . 
-git commit -m "message"
+git add . ->>add files to the staging area from the working area
+git commit -m "message" ->> add filres from staging area to the repository
+git commit -am "message" ->> add all files directly to the repository without going through thestaging area
 
 ls -la 
 ls - la .git
