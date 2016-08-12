@@ -49,3 +49,11 @@ renamed first.txt -> home.txt
 alternative way to rename a file is 
 
 git mv second.txt beta.txt
+
+git mv beta.txt first/ --> This will move file to the destination folder 
+
+
+Adding a link to remote repository
+==================================
+git remote add gitting https://github.com/msarefin/git.git
+
