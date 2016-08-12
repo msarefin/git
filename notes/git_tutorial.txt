@@ -57,3 +57,21 @@ Adding a link to remote repository
 ==================================
 git remote add gitting https://github.com/msarefin/git.git
 
+If you want to restore a file from the repository 
+
+git checkout -- beta.txt
+
+Unstaging files from the staging area 
+=====================================
+
+git reset HEAD beta.txt
+
+restoring old versions of a file from the repo 
+==================================================
+
+first you need to find the location you want to go back to 
+
+you can use the following to find the location 
+git log beta.txt 
+
+
