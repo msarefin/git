@@ -28,3 +28,24 @@ git diff [files]
 git diff --staged
 git diff --staged
 
+git rm file.ext
+git commit -m "deleted the test.txt"
+
+if yourename a file in the file explorer then you must do thefollowing for git  to recognize the changes 
+
+ex: first.txt is renamed to home.txt
+
+git status will show that we deleted first.txt and then created home.txt 
+
+For git to recignize the rename  we have to write a set of commands 
+ 
+ git add home.txt
+ git rm first.txt
+ 
+Then when we do git status we will see the following:
+
+renamed first.txt -> home.txt 
+
+alternative way to rename a file is 
+
+git mv second.txt beta.txt
