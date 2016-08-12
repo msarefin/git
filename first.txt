@@ -1,5 +1,2 @@
 This is m first text file.
 
-I will be working on git to track change
-
-I am going to continue working 
