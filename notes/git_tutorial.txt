@@ -21,3 +21,7 @@ git log --until=2016-08-08
 
 git log --author="sunny"
 
+git diff 
+
+git diff [files]
+
