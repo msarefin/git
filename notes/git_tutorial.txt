@@ -1,0 +1,22 @@
+Git Tutorial
+
+Git is a distributed version control 
+
+
+git init ->> initialize the project 
+git add . 
+git commit -m "message"
+
+ls -la 
+ls - la .git
+
+git log
+
+git log -n 2
+
+git log --since=2016-08-08
+
+git log --until=2016-08-08
+
+git log --author="sunny"
+
