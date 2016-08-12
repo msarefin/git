@@ -4,4 +4,4 @@ this is interesting
 
 this is the third commit
 
-the second file is fake
+the second file is fake beacuse its just a duplicate

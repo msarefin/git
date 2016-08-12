@@ -1,5 +1,9 @@
 This imy first Git project 
 
+
+GIT Config 
+==========
+
 git config --global user.name "Name"
 git config --global user.email"name@email.com"
 git config --list
@@ -7,18 +11,21 @@ git config user.name
 git config user.email
 
 git help 
-git help 
 
-pwd 				>> Tells you the folder location you are currently on.
+Folder Creattion and browse
+===========================
+
+pwd			>> Tells you the folder location you are currently on.
 
 cd~ 		>> Take you to the home folder
 cd .. 		>> Take you back one step 
-ls 		>> lists all the folders
+ls		>> lists all the folders
 
 cd folder 	>> takes to the folder 
 cd c:\git 	>> takes you to the git folder c:\git
 
---------Initialize the project and start working on git -----------------
+Initialize the project and start working on git
+===============================================
 
 git init >> this will initialize the project
 
@@ -76,11 +83,15 @@ git checkout -- file.ext >> retrive the file from the repository
 unstaging >>
 
 git reset HEAD file.ext
+=========================================================================
 
 git remote add git_tutorial https://github.com/msarefin/git_tutorial.git
 git remote 
 
 git push -u git_tutorial
+
+git clone https://github.com/msarefin/git_tutorial.git >> clone the entire repository
+
 
 
 
