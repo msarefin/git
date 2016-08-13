@@ -86,5 +86,10 @@ creating the .gitignore setting files that will tell git to ignore certian files
 
 =============================================
 
-git reset 
+git reset notes/file.txt
+
+git remote -v 
+git branch -a
+
+
  
