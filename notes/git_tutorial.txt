@@ -99,4 +99,7 @@ git branch
 
 git checkout git1
 
+git push gitting git1 >> push files to the branch git1 
+
+
  
