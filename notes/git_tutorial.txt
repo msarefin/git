@@ -91,5 +91,12 @@ git reset notes/file.txt
 git remote -v 
 git branch -a
 
+git push origin master 
+git pull origin master
+
+git branch git1
+git branch 
+
+git checkout git1
 
  
