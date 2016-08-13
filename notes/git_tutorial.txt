@@ -74,4 +74,17 @@ first you need to find the location you want to go back to
 you can use the following to find the location 
 git log beta.txt 
 
+ pushing files to Git hub online repo 
+ ====================================
+ 
+ 
+git push -u gitting master
 
+
+creating the .gitignore setting files that will tell git to ignore certian files
+
+
+=============================================
+
+
+ 
